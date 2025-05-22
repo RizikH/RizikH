@@ -1,24 +1,45 @@
-- 👋 Hi, I’m @RizikH
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on Machine Learning and AI projects
+# 👋 Hi, I’m Rizik Haddad (@RizikH)
 
-        Origins of My Journey: A Passion for Coding Ignited 18 Years Ago Introduction:
+## Full-Stack Developer | Exploring AI, GSAP & Three.js
 
-My journey into the realm of coding and programming commenced 18 years back, during my childhood days.
-The spark was ignited when my parents took me to a concert, an event that would forever alter my trajectory.
-At the concert, a mobile internet cafe captured my attention and opened the doors to the fascinating universe of technology.
+---
 
-Memorable Turning Point: 
-Although many memories from my childhood have faded, one particular day stands out in vivid detail.
-It was the day of the concert, a day that marked my inaugural encounter with technology.
-Among the array of experiences, my introduction to tech was through engaging with flash games. 
-This entry point into the world of technology resonates with many individuals in my field of interest. 
+### 🧩 What I Do
 
-Inception of a Dream: 
-From that pivotal moment onward, a profound realization took root within me. 
-The interaction with those flash games illuminated a path I was destined to follow. 
-This event cemented my aspiration to delve into the realm of technology, an aspiration that eventually steered me towards the domain of computer science.
+I build full-stack web applications with a focus on usability, performance, and clean architecture. I'm also exploring animation and 3D on the web.
+
+**Tech I use:**
+
+- **Frontend**: React, Next.js, Tailwind CSS, GSAP
+- **Backend**: Node.js, Express
+- **Database**: PostgreSQL, Supabase
+- **Other**: AWS (S3), Vercel, Zustand, WebSockets
+- **Learning**: Three.js, C, C++, machine learning basics
+
+---
+
+### 🔄 Current Focus
+
+- Integrating animation using GSAP  
+- Building 3D scenes with Three.js  
+- Applying AI tools to web development  
+- Writing cleaner backend APIs and improving database design
+
+---
+
+### 📎 How It Started
+
+18 years ago, I played Flash games on a mobile internet café at a concert. That was my first real interaction with tech. Since then, I’ve kept building—first small scripts, now full web platforms.
+
+---
+
+### 🤝 Open to
+
+- Frontend or full-stack collaboration  
+- Projects involving animation, interactivity, or AI  
+- Connecting with other developers and exchanging ideas
+
+---
 
 <!---
 RizikH/RizikH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
