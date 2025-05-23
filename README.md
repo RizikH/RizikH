@@ -42,7 +42,7 @@ I build full-stack web applications with a focus on usability, performance, and 
 ---
 
 ### 📎 Check out my portfolio
-- rizikh.vercel.app
+[Live Portfolio](rizikh.vercel.app)
 
 <!---
 RizikH/RizikH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
