@@ -29,7 +29,7 @@ I build full-stack web applications with a focus on usability, performance, and 
 
 ### 📎 How It Started
 
-18 years ago, I played Flash games on a mobile internet café at a concert. That was my first real interaction with tech. Since then, I’ve kept building—first small scripts, now full web platforms.
+18 years ago, I played Flash games in a mobile internet café at a concert. That was my first real interaction with tech. Since then, I’ve kept building—first small scripts, now full web platforms.
 
 ---
 
@@ -40,6 +40,9 @@ I build full-stack web applications with a focus on usability, performance, and 
 - Connecting with other developers and exchanging ideas
 
 ---
+
+### 📎 Check out my portfolio
+- rizikh.vercel.app
 
 <!---
 RizikH/RizikH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
