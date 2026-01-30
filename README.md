@@ -55,7 +55,7 @@ The journey from "how do I center a div" to "let me architect your entire backen
 
 **Find me:**
 - 🌐 [Portfolio](https://rizikh.vercel.app) (check out the project modals!)
-- 💼 [LinkedIn](https://linkedin.com/in/rizik-haddad)
+- 💼 [LinkedIn](https://linkedin.com/in/rizik-haddad-075443266/)
 - 📧 rizig.haddad.rh@gmail.com
 
 ---
