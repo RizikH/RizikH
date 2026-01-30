@@ -90,9 +90,13 @@ The journey from "how do I center a div" to "let me architect your microservices
 
 ```
 Coffee consumed: ████████████████████ Too much (shoutout Tate Street Coffee <3)
+
 Bugs fixed: ██████░░░░░░░░░░░░░░ Fewer than created (keeping it real)
+
 "Works on first try": ██░░░░░░░░░░░░░░░░ Rarely, but it happens
+
 Stack Overflow visits: ████████████████████ Daily driver
+
 .NET docs open tabs: ████████░░░░░░░░░░░░ Learning curve is real
 ```
 
